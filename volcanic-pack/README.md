@@ -1,1 +1,1 @@
-This pack includes the VolcanicMountains biome and a lava biome that is used for the lava lakes. Also uses the hot-sandy-red-caves from the overworld pack currently. Soon it should have its own cave biome tho. If you wanna use it now, copy the region file, the objects and the desert and lava biome. It's currently named desert, dont ask why lmao. After that you just need to add the volcanic region into your overworld dimension file.
+# Download this pack, put it into the packs folder, go in-game and execute /ir std o volcanic.
