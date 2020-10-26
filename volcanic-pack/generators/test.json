@@ -1,0 +1,23 @@
+{
+    "interpolator": {
+        "function": "BICUBIC",
+        "horizontalScale": 44
+    },
+    "seed": 9246661,
+    "composite": [
+        {
+            "style": {
+                "style": "BIOCTAVE_FRACTAL_BILLOW_PERLIN",
+                "zoom": 1,
+                "fracture": {
+                    "style": "IRIS_THICK",
+                    "multiplier": 12,
+                    "zoom": 0.78
+                }
+            },
+            "seed": 134056,
+            "octaves": 8,
+            "fracture": []
+        }
+    ]
+}

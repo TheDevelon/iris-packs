@@ -1,0 +1,16 @@
+{
+    "interpolator": {
+        "function": "BILINEAR_STARCAST_9",
+        "horizontalScale": 7
+    },
+    "seed": 124996,
+    "composite": [
+        {
+            "seed": 39596,
+            "style": {
+                "style": "TRIOCTAVE_SIMPLEX",
+                "zoom": 0.55
+            }
+        }
+    ]
+}

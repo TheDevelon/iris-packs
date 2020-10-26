@@ -1,0 +1,283 @@
+{
+    "name": "Volcanic Mountains",
+    "derivative": "DESERT",
+    "decorators": [
+        {
+            "chance": 0.0088,
+            "variance": {
+                "style": "IRIS",
+                "zoom": 0.45
+            },
+            "palette": [
+                {
+                    "block": "dead_bubble_coral",
+                    "data": {
+                        "waterlogged": false
+                    }
+                },
+                {
+                    "block": "dead_brain_coral",
+                    "data": {
+                        "waterlogged": false
+                    }
+                },
+                {
+                    "block": "dead_fire_coral",
+                    "data": {
+                        "waterlogged": false
+                    }
+                },
+                {
+                    "block": "dead_horn_coral",
+                    "data": {
+                        "waterlogged": false
+                    }
+                },
+                {
+                    "block": "dead_tube_coral",
+                    "data": {
+                        "waterlogged": false
+                    }
+                },
+                {
+                    "block": "dead_tube_coral_fan",
+                    "data": {
+                        "waterlogged": false
+                    }
+                },
+                {
+                    "block": "dead_brain_coral_fan",
+                    "data": {
+                        "waterlogged": false
+                    }
+                },
+                {
+                    "block": "dead_bubble_coral_fan",
+                    "data": {
+                        "waterlogged": false
+                    }
+                },
+                {
+                    "block": "dead_fire_coral_fan",
+                    "data": {
+                        "waterlogged": false
+                    }
+                },
+                {
+                    "block": "dead_horn_coral_fan",
+                    "data": {
+                        "waterlogged": false
+                    }
+                }
+            ]
+        }
+    ],
+    "objects": [
+        {
+            "chance": 0.0085,
+            "rotation": {
+                "yAxis": {
+                    "min": 0,
+                    "max": 0,
+                    "interval": 90,
+                    "enabled": true
+                },
+                "enabled": true
+            },
+            "place": [
+                "volcanic/lava-lake1"
+            ],
+            "translate": {
+                "x": 0,
+                "y": -8,
+                "z": 0
+            },
+            "meld": true,
+            "clamp": {"minimumHeight": 80},
+            "mode": "MIN_HEIGHT",
+            "edit": [
+                {
+                "find": [{ "block": "red_wool" }],
+                "replace": {
+                    "palette": [
+                        {
+                            "block": "void_air"
+                        }
+                    ]
+                }
+            }
+            ]
+        },
+        {
+            "chance": 0.66,
+            "rotation": {
+                "yAxis": {
+                    "min": 0,
+                    "max": 0,
+                    "interval": 90,
+                    "enabled": true
+                },
+                "enabled": true
+            },
+            "place": [
+                "volcanic/concrete-str1"
+            ],
+            "translate": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "clamp": {"minimumHeight": 60,"maximumHeight": 85}
+        },
+        {
+            "chance": 0.066,
+            "rotation": {
+                "yAxis": {
+                    "min": 0,
+                    "max": 0,
+                    "interval": 90,
+                    "enabled": true
+                },
+                "enabled": true
+            },
+            "place": [
+                "volcanic/basalt-tree1"
+            ],
+            "translate": {
+                "x": 0,
+                "y": -1,
+                "z": 0
+            }
+        },
+        {
+            "chance": 0.044,
+            "rotation": {
+                "yAxis": {
+                    "min": 0,
+                    "max": 0,
+                    "interval": 90,
+                    "enabled": true
+                },
+                "enabled": true
+            },
+            "place": [
+                "volcanic/basalt-tree2"
+            ],
+            "translate": {
+                "x": 0,
+                "y": -1,
+                "z": 0
+            }
+        }
+    ],
+   "layers": [
+        {
+            "minHeight": 16,
+            "maxHeight": 33,
+            "style": {
+                "style": "STATIC"
+            },
+            "zoom": 0.33,
+            "palette": [
+                {
+                    "data": {
+                        "axis": "x"
+                    },
+                    "block": "basalt"
+                },
+                {
+                    "data": {
+                        "axis": "y"
+                    },
+                    "block": "basalt"
+                },
+                {
+                    "data": {
+                        "axis": "z"
+                    },
+                    "block": "basalt"
+                },
+                {
+                    "data": {
+                        "axis": "x"
+                    },
+                    "block": "basalt"
+                },
+                {
+                    "data": {
+                        "axis": "y"
+                    },
+                    "block": "basalt"
+                },
+                {
+                    "data": {
+                        "axis": "z"
+                    },
+                    "block": "basalt"
+                },
+                {
+                    "data": {
+                        "axis": "x"
+                    },
+                    "block": "basalt"
+                },
+                {
+                    "data": {
+                        "axis": "y"
+                    },
+                    "block": "basalt"
+                },
+                {
+                    "data": {
+                        "axis": "z"
+                    },
+                    "block": "basalt"
+                },
+                {
+                    "data": {
+                        "axis": "x"
+                    },
+                    "block": "basalt"
+                },
+                {
+                    "data": {
+                        "axis": "y"
+                    },
+                    "block": "basalt"
+                },
+                {
+                    "data": {
+                        "axis": "z"
+                    },
+                    "block": "basalt"
+                },
+                {
+                    "data": {
+                        "axis": "x"
+                    },
+                    "block": "basalt"
+                },
+                {
+                    "data": {
+                        "axis": "y"
+                    },
+                    "block": "basalt"
+                },
+                {
+                    "data": {
+                        "axis": "z"
+                    },
+                    "block": "basalt"
+                }
+            ]
+        }
+    ],
+
+    "generators": [
+        {
+            "generator": "volcanic",
+            "max": 55,
+            "min": 19
+        }
+    ]
+}
