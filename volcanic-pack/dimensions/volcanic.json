@@ -1,0 +1,12 @@
+{
+    "postProcessing": false,
+    "environment": "NORMAL",
+    "regions": [
+        "volcanic"
+    ],
+    "caves": false,
+    "name": "Volcanic",
+    "fluidHeight": 75,
+    "carving": false,
+    "version": 1
+}

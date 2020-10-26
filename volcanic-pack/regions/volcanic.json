@@ -6,11 +6,11 @@
     ],
     "blockDrops": [],
     "landBiomes": [
-        "desert"
+        "volcanic-mountains"
     ],
     "biomeImplosionRatio": 0.25,
     "seaBiomes": [
-        "lava"
+        "lava-ocean"
     ],
     "deposits": [],
     "caveBiomes": [
@@ -23,7 +23,7 @@
             "particleAltY": 0.0,
             "particleAltZ": 0.0,
             "chance": 20,
-            "particleEffect": "ASH",
+            "particleEffect": "SMOKE_LARGE",
             "particleOffset": 3,
             "interval": 1350,
             "particleCount": 6
@@ -31,7 +31,7 @@
     ],
     "shoreHeightMin": 3.2,
     "shoreBiomes": [
-        "lava"
+        "lava-ocean"
     ],
     "name": "Volcanic",
     "shoreHeightMax": 6.2,
