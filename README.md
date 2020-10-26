@@ -8,6 +8,7 @@ _Current biomes_:
     - https://i.imgur.com/WmbKl9d.jpeg
     - https://i.imgur.com/8gNkGiF.jpeg
     - https://i.imgur.com/qjteLJt.jpeg
+    
 _Current regions_:
 
 - Volcanic
