@@ -3,7 +3,11 @@
 _Current biomes_:
 
 - VolcanicMountains
-
+  - Pictures:
+    - https://i.imgur.com/sL2IC6P.jpeg
+    - https://i.imgur.com/WmbKl9d.jpeg
+    - https://i.imgur.com/8gNkGiF.jpeg
+    - https://i.imgur.com/qjteLJt.jpeg
 _Current regions_:
 
 - Volcanic
