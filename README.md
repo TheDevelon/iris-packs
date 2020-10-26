@@ -15,7 +15,7 @@ _Current regions_:
 
 _Current objects_:
 
-- Lava Cave
+- Lava Lake
 http://prntscr.com/v79i40
 
 - Basalt Trees (2 variations)
