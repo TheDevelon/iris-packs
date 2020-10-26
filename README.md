@@ -22,4 +22,4 @@ http://prntscr.com/v79hla
 - some ugly test objects that no one should use
 
 
-### Contributers: TheDevelon (Discord: TheDevelon#9171), Fires (Discord: Fires#8305), CriSpyTake (Discord: Crispy#3825)
+### Contributors: TheDevelon (Discord: TheDevelon#9171), Fires (Discord: Fires#8305), CriSpyTake (Discord: Crispy#3825)
