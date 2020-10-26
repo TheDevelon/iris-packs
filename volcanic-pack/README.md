@@ -1,5 +1,7 @@
 # Download this pack, put it into the packs folder, go in-game and execute /ir std o volcanic.
 
+## Pack is currently WIP. So some missing objects, object spawn frequency might be too low/high, maybe some terrain changes.
+
 ## If you wanna integrate it into the overworld:
 
 1. 
